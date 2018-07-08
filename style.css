@@ -1,0 +1,12 @@
+tr{
+  display: flex;
+  border: 1px solid #000
+}
+
+td{
+  border: 1px solid #000;
+  width: 150px;
+  height: 150px;
+  background: orange;
+}
+/*`url(images/${mixedElements[$('td').index(this)]}.gif)`
